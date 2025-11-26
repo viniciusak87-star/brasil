@@ -228,12 +228,6 @@ Para dúvidas ou sugestões sobre o sistema, entre em contato com:
 
 Este projeto é proprietário da Clínica Médica. Todos os direitos reservados.
 
-## 👨‍💻 Desenvolvedor
 
-Desenvolvido por: **Manus AI**
-Versão: **1.0.0**
-Data: **Novembro de 2025**
 
----
 
-**Última atualização**: 18 de Novembro de 2025
